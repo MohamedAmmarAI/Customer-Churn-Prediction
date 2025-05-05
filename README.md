@@ -53,10 +53,6 @@ This project aims to help telecom companies predict whether a customer will chur
 - Streamlit
 - Matplotlib, Seaborn
 
-## 📌 Tags
-
-#dataanalysis #dataengineer #businessintelligence #powerbi
-
 ---
 
 Made with ❤️ by [Mohamed Ammar](https://github.com/MohamedAmmarAI)
