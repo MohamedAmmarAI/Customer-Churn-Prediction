@@ -42,7 +42,8 @@ This project aims to help telecom companies predict whether a customer will chur
 
 ## 📸 Screenshot
 
-![Streamlit UI Preview](https://churnedclassification-9m3zxytx7iswnxlxxldoo2.streamlit.app/)
+![image](https://github.com/user-attachments/assets/0598374b-61e6-4c90-b470-0c25ef694757)
+
 
 ## 🧠 Tech Stack
 
